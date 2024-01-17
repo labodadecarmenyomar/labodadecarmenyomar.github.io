@@ -263,6 +263,10 @@ align-items: center;
   -webkit-text-fill-color:transparent;
   transition:all 265ms ease-in
 }
+.portada{
+  background-size: 100%; background-attachment: scroll; 
+background-image: url(../img/fondoInicio.png);
+}
 @media (min-width: 1200px) { /*laptop*/
   .imagen1{
     display: block;
