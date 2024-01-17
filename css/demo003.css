@@ -32,7 +32,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 background-size: 100%; 
-background-image: url(../img/A&E-13466.jpg); 
+background-image: url(../img/A&E-699.jpg); 
 position: relative; 
 background-attachment: fixed;
 }
@@ -50,7 +50,7 @@ background-attachment: fixed;
     width: 100%;
     max-width: 750px;
     text-align: center;
-   margin-top: 310px;
+   margin-top: 330px;
 
 }
 .contenido .info .nuestraBoda{
@@ -277,7 +277,7 @@ margin-top: -10px;
     width: 100%;
     max-width: 750px;
     text-align: center;
-   margin-top: 70px;
+   margin-top: 90px;
 
 }
 .contenido .info .nuestraBoda{
@@ -579,14 +579,14 @@ font-family: 'Cantata One', serif;
 .porqueformas{
    font-family: 'Cantata One', serif;
   font-size: 20px;
-  color:#D6AE52;
+  color:#24292F;
   letter-spacing: 3px;
   opacity:.7;
 }
 .porqueformas1{
    font-family: 'Cantata One', serif;
   font-size: 20px;
-  color:#D6AE52;
+  color:#24292F;
   letter-spacing: 2px;
   opacity: .7;
 }
@@ -658,7 +658,7 @@ text-shadow: 0px 0px 0px;
     width: 100%;
     max-width: 750px;
     text-align: center;
-   margin-top: 250px;
+   margin-top: 270px;
 
 }
 .contenido .info .nuestraBoda{
@@ -809,13 +809,13 @@ font-family: 'Cantata One', serif;
 .porqueformas{
    font-family: 'Cantata One', serif;
   font-size: 20px;
-  color:#D6AE52;
+  color:#24292F;
   letter-spacing: 3px;
 }
 .porqueformas1{
    font-family: 'Cantata One', serif;
   font-size: 20px;
-  color:#D6AE52;
+  color:#24292F;
   letter-spacing: 2px;
 }
 .tespero{
@@ -897,14 +897,14 @@ font-family: 'Cantata One', serif;
 .porqueformas{
    font-family: 'Cantata One', serif;
   font-size: 17px;
-  color:#D6AE52;
+  color:#24292F;
   letter-spacing: 3px;
   opacity: .7;
 }
 .porqueformas1{
    font-family: 'Cantata One', serif;
   font-size: 17px;
-  color:#D6AE52;
+  color:#24292F;
   letter-spacing: 2px;
   opacity:.7;
 }
@@ -1214,7 +1214,7 @@ border-top-left-radius: 30px 30px;
   border-left: 2px solid #E5CA5E;
   
   border-color: #C8B18F;
-  background-color: #F8F8F8;
+  background-color: #DBEBD1;
   color:#D6AE52;
   
   text-align: center;
@@ -1565,11 +1565,11 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-134.jpg); 
+background-image: url(../img/A&E-699.jpg); 
 position: relative; 
 background-attachment: fixed;
 background-repeat: no-repeat;
-background-size: 100%;
+background-size: 40%;
 background-position: center;
 display: block;
   margin: auto;
@@ -2354,12 +2354,12 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-134.jpg); 
+background-image: url(../img/A&E-699.jpg); 
 position: relative; 
 background-attachment: fixed;
 background-repeat: no-repeat;
-background-size: 100%;
-
+background-size: 50%;
+background-position-x: center;
 display: block;
   margin: auto;
 
@@ -2392,12 +2392,12 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-134.jpg); 
+background-image: url(../img/A&E-699.jpg); 
 position: relative; 
 background-attachment: fixed;
 background-repeat: no-repeat;
-background-size: 100%;
-
+background-size: 50%;
+background-position-x: center;
 display: block;
   margin: auto;
 
